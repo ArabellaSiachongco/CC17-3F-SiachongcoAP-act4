@@ -1,0 +1,228 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\Bella\.gradle\caches\transforms-4\0dd12afefe7dfbb8badd23498ffb4264\transformed\viewbinding-8.6.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\273873ff2344708f744f4e5c492d1cf2\transformed\core-ktx-1.7.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Bella\.gradle\caches\transforms-4\ea7c7fe33764803748e5ec92f7a118a2\transformed\material-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bella\.gradle\caches\transforms-4\901946e312dd614edb4fe55540d05d80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Bella\.gradle\caches\transforms-4\718546d2fc36660abefe6a75b9480f03\transformed\appcompat-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\21e2c28edcc21e05e9e370b8657198af\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bella\.gradle\caches\transforms-4\6022090e0aa340d76f7019cef9a3f4e1\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bella\.gradle\caches\transforms-4\8743b89a1844160f0bd1e15538cd3f84\transformed\activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Bella\.gradle\caches\transforms-4\24aae3304118a539a319db8731a6121f\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\05bd0e19ac712e9c5cda0803fd6a2edf\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\f69f151b455eb189cd86b91ee511dd27\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\597924b622e645d45e50f601bfa94071\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\deca94d6b927cb00e9b4d834487aee9d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bella\.gradle\caches\transforms-4\8a740269e95715761d8dc69342fb21ef\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\d3c72ad75a9b6336fb92d64f12ecba1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\8da85a6038a92b380d3a851201aafc13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\042a1cb58c5a852dec7f7cd995bde135\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\de77188b5bd342ac44bc73d0cded7425\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\a17f5b257be24a651ab12cbedf1bb513\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\92afbf525ce8d5fc095517ce8174b15f\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\b6fb4917d5ed25a34c074f4052f453a0\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\5e75e5bdf4aa2eae03928d89a5f69f25\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\62cd5c958f362a92d8cc66ca721a95b7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\e850175851467c7051cd501f5fdd6b08\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\80c2767e656bf56ad3f9b62c4f7833ce\transformed\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\18fd240895811fc1a180ef26d301213e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\5d7e43d3ba908070aba67bd196f832b3\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\774219e8d1159b07d730e23ef63790b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\bfef07428475ae7fb5640f414c7e8212\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bella\.gradle\caches\transforms-4\6b7fc26fb11a0f087f31e1854db26917\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\a6ed75892ff9a7a90a128a91474895ac\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\2eea3a9435ef7393e21079ad18cca588\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bella\.gradle\caches\transforms-4\d6e62e5a1eaf2c0dc8cc284022772c10\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\c42d968b4015d79b363560b2ed72a027\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\a892395b5a5e81c04c023cedae0cc7d0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\1f46746746062ef380f351e60f2b59f8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\6a2c3d8dba5cd4a1bad809e4097b2b96\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\4da22e698236601b2b4850e732872723\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:5:5-24:19
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Bella\.gradle\caches\transforms-4\ea7c7fe33764803748e5ec92f7a118a2\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Bella\.gradle\caches\transforms-4\ea7c7fe33764803748e5ec92f7a118a2\transformed\material-1.6.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bella\.gradle\caches\transforms-4\901946e312dd614edb4fe55540d05d80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bella\.gradle\caches\transforms-4\901946e312dd614edb4fe55540d05d80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\5e75e5bdf4aa2eae03928d89a5f69f25\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\5e75e5bdf4aa2eae03928d89a5f69f25\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\774219e8d1159b07d730e23ef63790b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\774219e8d1159b07d730e23ef63790b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\5e75e5bdf4aa2eae03928d89a5f69f25\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:10:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:8:9-54
+	android:roundIcon
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:14:9-29
+	android:icon
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:13:9-51
+	android:dataExtractionRules
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:7:9-65
+activity#com.example.tipcalculator.MainActivity
+ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:exported
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\Bella\.gradle\caches\transforms-4\0dd12afefe7dfbb8badd23498ffb4264\transformed\viewbinding-8.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.6.0] C:\Users\Bella\.gradle\caches\transforms-4\0dd12afefe7dfbb8badd23498ffb4264\transformed\viewbinding-8.6.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\273873ff2344708f744f4e5c492d1cf2\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\273873ff2344708f744f4e5c492d1cf2\transformed\core-ktx-1.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Bella\.gradle\caches\transforms-4\ea7c7fe33764803748e5ec92f7a118a2\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.0] C:\Users\Bella\.gradle\caches\transforms-4\ea7c7fe33764803748e5ec92f7a118a2\transformed\material-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bella\.gradle\caches\transforms-4\901946e312dd614edb4fe55540d05d80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] C:\Users\Bella\.gradle\caches\transforms-4\901946e312dd614edb4fe55540d05d80\transformed\constraintlayout-2.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Bella\.gradle\caches\transforms-4\718546d2fc36660abefe6a75b9480f03\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] C:\Users\Bella\.gradle\caches\transforms-4\718546d2fc36660abefe6a75b9480f03\transformed\appcompat-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\21e2c28edcc21e05e9e370b8657198af\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\21e2c28edcc21e05e9e370b8657198af\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bella\.gradle\caches\transforms-4\6022090e0aa340d76f7019cef9a3f4e1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\Bella\.gradle\caches\transforms-4\6022090e0aa340d76f7019cef9a3f4e1\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bella\.gradle\caches\transforms-4\8743b89a1844160f0bd1e15538cd3f84\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\Bella\.gradle\caches\transforms-4\8743b89a1844160f0bd1e15538cd3f84\transformed\activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Bella\.gradle\caches\transforms-4\24aae3304118a539a319db8731a6121f\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] C:\Users\Bella\.gradle\caches\transforms-4\24aae3304118a539a319db8731a6121f\transformed\appcompat-resources-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\05bd0e19ac712e9c5cda0803fd6a2edf\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\05bd0e19ac712e9c5cda0803fd6a2edf\transformed\emoji2-views-helper-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\f69f151b455eb189cd86b91ee511dd27\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\f69f151b455eb189cd86b91ee511dd27\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\597924b622e645d45e50f601bfa94071\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\597924b622e645d45e50f601bfa94071\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\deca94d6b927cb00e9b4d834487aee9d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\deca94d6b927cb00e9b4d834487aee9d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bella\.gradle\caches\transforms-4\8a740269e95715761d8dc69342fb21ef\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Bella\.gradle\caches\transforms-4\8a740269e95715761d8dc69342fb21ef\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\d3c72ad75a9b6336fb92d64f12ecba1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\d3c72ad75a9b6336fb92d64f12ecba1a\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\8da85a6038a92b380d3a851201aafc13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\8da85a6038a92b380d3a851201aafc13\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\042a1cb58c5a852dec7f7cd995bde135\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\042a1cb58c5a852dec7f7cd995bde135\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\de77188b5bd342ac44bc73d0cded7425\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\de77188b5bd342ac44bc73d0cded7425\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\a17f5b257be24a651ab12cbedf1bb513\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\a17f5b257be24a651ab12cbedf1bb513\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\92afbf525ce8d5fc095517ce8174b15f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\92afbf525ce8d5fc095517ce8174b15f\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\b6fb4917d5ed25a34c074f4052f453a0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\b6fb4917d5ed25a34c074f4052f453a0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\5e75e5bdf4aa2eae03928d89a5f69f25\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Bella\.gradle\caches\transforms-4\5e75e5bdf4aa2eae03928d89a5f69f25\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\62cd5c958f362a92d8cc66ca721a95b7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\62cd5c958f362a92d8cc66ca721a95b7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\e850175851467c7051cd501f5fdd6b08\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\e850175851467c7051cd501f5fdd6b08\transformed\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\80c2767e656bf56ad3f9b62c4f7833ce\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\80c2767e656bf56ad3f9b62c4f7833ce\transformed\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\18fd240895811fc1a180ef26d301213e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\18fd240895811fc1a180ef26d301213e\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\5d7e43d3ba908070aba67bd196f832b3\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\5d7e43d3ba908070aba67bd196f832b3\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\774219e8d1159b07d730e23ef63790b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Bella\.gradle\caches\transforms-4\774219e8d1159b07d730e23ef63790b5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\bfef07428475ae7fb5640f414c7e8212\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\bfef07428475ae7fb5640f414c7e8212\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bella\.gradle\caches\transforms-4\6b7fc26fb11a0f087f31e1854db26917\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Bella\.gradle\caches\transforms-4\6b7fc26fb11a0f087f31e1854db26917\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\a6ed75892ff9a7a90a128a91474895ac\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Bella\.gradle\caches\transforms-4\a6ed75892ff9a7a90a128a91474895ac\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\2eea3a9435ef7393e21079ad18cca588\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\2eea3a9435ef7393e21079ad18cca588\transformed\lifecycle-runtime-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bella\.gradle\caches\transforms-4\d6e62e5a1eaf2c0dc8cc284022772c10\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Bella\.gradle\caches\transforms-4\d6e62e5a1eaf2c0dc8cc284022772c10\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\c42d968b4015d79b363560b2ed72a027\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\c42d968b4015d79b363560b2ed72a027\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\a892395b5a5e81c04c023cedae0cc7d0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\a892395b5a5e81c04c023cedae0cc7d0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\1f46746746062ef380f351e60f2b59f8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\1f46746746062ef380f351e60f2b59f8\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\6a2c3d8dba5cd4a1bad809e4097b2b96\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\6a2c3d8dba5cd4a1bad809e4097b2b96\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\4da22e698236601b2b4850e732872723\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Bella\.gradle\caches\transforms-4\4da22e698236601b2b4850e732872723\transformed\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bella\AndroidStudioProjects\CalculatorApp\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\75d1585313f2b1effa63a0f158ba76ad\transformed\startup-runtime-1.0.0\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] C:\Users\Bella\.gradle\caches\transforms-4\713b16e4aac886a4565cfa052fdddb7e\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Bella\.gradle\caches\transforms-4\024dcc73f7f186f6c0a2af42a0298212\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
